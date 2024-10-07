@@ -1,1 +1,1 @@
-# LanqiaoCup_Algorithm_Workshop
+### LanqiaoCup_Workshop
